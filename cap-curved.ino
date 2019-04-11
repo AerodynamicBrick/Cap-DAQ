@@ -1,8 +1,3 @@
-/*
- * Demo sketch for new "PLX DAQ v2"
- * including most all common commands to be used
- */
-
 int start=millis();
 double volt=0.0;
 
